@@ -12,7 +12,6 @@ class ball{
   }
   
   void display (){
-     background(115);
      stroke(0);
      ellipse(x,y,30,30);
   }

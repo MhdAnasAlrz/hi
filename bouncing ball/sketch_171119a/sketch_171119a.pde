@@ -9,6 +9,7 @@ ball b1;
  }
  
  void draw(){
+  background(115);
   b.display();
   b.update();
   b.condition();
